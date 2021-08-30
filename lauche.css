@@ -1,0 +1,139 @@
+.Laucher{
+    background-color: rgb(37, 29, 29);
+    height: 500px;;
+    width: 800px;
+    position: absolute;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+p{
+    font-size: 25px;
+}
+
+.NavePrincipal{
+    
+    position: relative;
+    margin-top: -150px;
+    margin-left: 400px;
+    width:350px;   
+}
+a{   
+   text-decoration: none;     
+   padding: 10px;
+   font-size:25px;
+   color: rgb(247, 169, 69);   
+}
+ a:hover{
+    background-color:  rgb(78, 76, 76)
+}
+
+.Infomacao{
+    position:absolute;
+    margin-top: 75px;
+    margin-left: 40px;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    background-color: rgb(226, 222, 222);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Infomacao p {
+    font-size: 15px;
+}
+.Infomacao a {   
+    font-size:15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card img{
+    height: 200px;
+    width: 400px;
+    margin-left:-50px ;
+    margin-top: -20px;
+}
+.card{
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 400px;
+}
+.SelecaodeCard{
+    margin-left: 122px;
+    text-decoration: none;
+    color:white;
+}
+
+.versao{
+    position: absolute;
+    margin-top: 334px;
+    margin-left: 40px;
+    font-size: 15px;
+    color: white;
+}
+.barra{
+width: 510px;
+height:10px;
+margin-left: 30px;
+margin-top: 350px;
+background-color: rgb(134, 134, 134);
+}
+.btnAtualizar{
+    border-radius: 15px;
+    border:0px;
+    margin-left:20px ;
+    margin-bottom: 20px;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    font-size: 20px;
+    background:rgb(247, 169, 69);
+}
+.btnAtualizar:hover{
+    background-color:  rgb(134, 134, 134);
+}
+.btnFacaLogin{
+    border-radius: 15px;
+    border:0px;
+    margin-left:20px ;
+    margin-bottom: 20px;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    font-size: 20px;
+    background:rgb(11, 194, 240);
+}
+
+
+
+.login{
+ position: absolute;  
+ margin-left: 40px;
+ margin-top: 50px;
+
+}
+
+.login span{
+    margin-top: 20px;
+    display: block;
+    color:red;
+    font-size: 20px;
+}
+.login input {
+    display:block;
+    width: 242px;
+    margin-bottom: 20px;
+}
+.login a{
+    display:block;
+    width:250px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(247, 169, 69);
+    font: size 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
